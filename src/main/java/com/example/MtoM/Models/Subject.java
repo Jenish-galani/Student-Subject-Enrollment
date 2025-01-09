@@ -5,6 +5,7 @@ import jakarta.persistence.*;
 import java.util.ArrayList;
 import java.util.List;
 
+@Entity // This class represents a Subject entity for the database
 @Entity
 public class Subject {
 
