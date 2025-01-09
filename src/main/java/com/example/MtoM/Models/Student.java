@@ -5,7 +5,7 @@ import jakarta.persistence.*;
 import java.util.ArrayList;
 import java.util.List;
 
-@Entity
+@Entity // This class represents a Student entity for the database
 public class Student {
 
     @Id
